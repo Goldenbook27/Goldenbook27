@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**Goldenbook27/Goldenbook27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Your Name
 
-Here are some ideas to get you started:
+## 👋 Introduction
+Hello! I'm Goldenbook27. Welcome to my GitHub profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 I’m currently learning MERN Stack.
+- 👯 I’m looking to collaborate on Full Stack Projects.
+- 🤔 I’m looking for help with Open Source Projects.
+
+## 📈 GitHub Stats
+!(https://github-readme-stats.vercel.app/api?username=Goldenbook27&show_icons=true&hide=contribs,prs)
+
+## 🤝 Connect with Me
+Feel free to connect with me on social media or drop me an email. I'm always open to interesting conversations and collaborations.
+
+## 🎉 Thank You!
+Thanks for visiting my GitHub profile. Have a great day! 👋
