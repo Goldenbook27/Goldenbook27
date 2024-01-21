@@ -9,6 +9,8 @@ Hello! I'm Goldenbook27. Welcome to my GitHub profile.
 - 🌱 I’m currently learning MERN Stack.
 - 👯 I’m looking to collaborate on Full Stack Projects.
 - 🤔 I’m looking for help with Open Source Projects.
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashanthsai525&label=Profile%20views&color=0e75b6&style=flat" alt="prashanthsai525" /> </p>
+
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Goldenbook27&show_icons=true&hide=contribs,prs)
