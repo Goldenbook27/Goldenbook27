@@ -3,7 +3,7 @@
 # Piyush Naik
 
 ## 👋 Introduction
-Hello! I'm Goldenbook27. Welcome to my GitHub profile.
+Hello! I'm Piyush Naik. Welcome to my GitHub profile.
 
 ## 🚀 About Me
 - 🌱 I’m currently learning MERN Stack.
