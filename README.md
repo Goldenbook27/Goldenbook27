@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Goldenbook27
+# Piyush Naik
 
 ## 👋 Introduction
 Hello! I'm Goldenbook27. Welcome to my GitHub profile.
