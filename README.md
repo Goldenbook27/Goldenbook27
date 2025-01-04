@@ -13,7 +13,7 @@ Hello! I'm Piyush Naik. Welcome to my GitHub profile.
 
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Goldenbook27&show_icons=true&hide=contribs,prs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Goldenbook27&show_icons=true)
 
 ## 🤝 Connect with Me
 Feel free to connect with me on social media or drop me an email. I'm always open to interesting conversations and collaborations.
